@@ -1,0 +1,10 @@
+pip install bs4
+pip install Unidecode
+pip install tabulate
+pip install psutil
+pip install db-sqlite3
+pip install requests
+pip install google
+pip install pywin32
+npm install -g peerflix
+https://nodejs.org/en/download/
