@@ -7,7 +7,7 @@ A simpler way to play movies with torrent without having to download it complete
 
 Currently it is only compatible with windows system. In possible future updates, it will be able to play on any operating system.
 
-Based on "WEB SCRAPING", and "PEERFLIX" the code searches on pirated movie sites, from which it returns the torrent magnetic link and creates a mini server with peerflix, giving access so that your network can access the file/movie that is being passed on the route that was opened on your internet.
+Based on "WEB SCRAPING", and "PEERFLIX", the code searches on pirated movie sites, from where it returns the torrent magnetic link and creates a mini server with peerflix, giving access so that your network can access the file/movie that is being accessed on the route that was opened on your internet.
 
 Requirements
 ------------
