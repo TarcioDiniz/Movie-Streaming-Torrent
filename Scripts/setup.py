@@ -279,6 +279,14 @@ class Player:
 
         choice_menu = input('Choose an option to continue: ')
 
+        if 'magnet:' in choice_menu:
+            self.magnet_link = choice_menu
+            os.system('cls' if os.name == 'nt' else 'clear')
+            print(self.title_art)
+            print()
+            if not self.playMovie():
+                return self.launcher()
+
         while not choice_menu.isnumeric():
             choice_menu = input('Choose an option to continue: ')
 
