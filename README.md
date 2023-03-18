@@ -1,5 +1,10 @@
-⚠️The website from which this app was based is no longer available. A new project will be made in the future. stay tuned! ⚠️
+⚠️⚠️⚠️⚠️⚠️
+The website from which this app was based is no longer available. A new project will be made in the future. stay tuned!
 
+But you can watch it if the magnet link is there: just paste it in the main menu
+⚠️⚠️⚠️⚠️⚠️
+
+* * *
 Movie-Streaming-Torrent
 =======================
 
